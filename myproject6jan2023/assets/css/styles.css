@@ -1,0 +1,8 @@
+@import './normalize.css';
+/*allow importing other css files in*/
+@import url('./global.css');
+@import url('./variables.css');
+@import './layout.css';
+@import url('./layout.css');
+@import './component.css';
+@import url('./typography.css');

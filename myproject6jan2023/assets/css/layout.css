@@ -1,0 +1,12 @@
+/*This is typically called a 'container' => .container { }*/
+main.main {
+    width: 900px;
+    /*auto*/  /* Let the browswer decide what size*/
+    /* margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0; */
+
+    /* margin: 0 auto 0 auto; */
+    margin: 0 auto;
+}
